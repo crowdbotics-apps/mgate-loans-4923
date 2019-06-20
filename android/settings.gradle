@@ -1,0 +1,3 @@
+rootProject.name = 'mgate_loans_4923'
+
+include ':app'
